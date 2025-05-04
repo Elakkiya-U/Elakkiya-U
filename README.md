@@ -1,24 +1,24 @@
-## Hi there! 👋 Welcome to my GitHub Profile!
+## Hi there! Welcome to my GitHub Profile!
 
 I'm Elakkiya, a passionate **Data Analyst** and Data Enthusiast who loves solving real-world problems with the power of data.
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-🎯 Strong background in customer support and operations with 5+ years of experience.
+ ~ Strong background in customer support and operations with 5+ years of experience.
 
-📊 Currently diving deeper into Data Analytics, Machine Learning, and Visualization Tools.
+ ~ Currently diving deeper into Data Analytics, Machine Learning, and Visualization Tools.
 
-🤝 Excited to collaborate on open-source and data-driven projects.
+ ~ Excited to collaborate on open-source and data-driven projects.
 
-🎓 Certified in Data Science and Artificial Intelligence.
+ ~ **Certified in Data Science and Artificial Intelligence.**
 
-💡 Fun fact: I'm always excited to learn new technologies and share my learnings with others!
+ ~ Fun fact: I'm always excited to learn new technologies and share my learnings with others!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <!-- Languages -->
 
@@ -48,23 +48,23 @@ I'm Elakkiya, a passionate **Data Analyst** and Data Enthusiast who loves solvin
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Elakkiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elakkiya-U&show_icons=true&theme=tokyonight&hide=contribs,prs&layout=compact)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakkiya-U&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uelakkiya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ---
 
-## ✨ Quote to Live By
+## Quote to Live By
 
 "Learning is my fuel; innovation is my destination." 
 
 ---
 
-**🧡 Thanks for visiting my profile!**
+**Thanks for visiting my profile!**
