@@ -65,7 +65,4 @@ Here are some highlights from my GitHub activity:
 ## Quote to Live By
 
 "Learning is my fuel; innovation is my destination." 
-
----
-
-**Thanks for visiting my profile!**
+"Data Once whispered in Ledgers and Logs; Today it roars across networks, shaping decisions faster than thoughts."
