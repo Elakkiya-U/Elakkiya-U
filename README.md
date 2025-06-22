@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub Profile!
+## Hi there! Welcome to my GitHub Journey!
 
 I'm Elakkiya, a passionate **Data Analyst** and Data Enthusiast who loves solving real-world problems with the power of data.
 
