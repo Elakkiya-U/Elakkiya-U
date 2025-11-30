@@ -1,20 +1,18 @@
-## Hi there! Welcome to my GitHub Journey!
+## Hi there! Welcome to my GitHub Page!
 
-I'm Elakkiya, a passionate **Data Analyst** and Data Enthusiast who loves solving real-world problems with the power of data.
+I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problems with the power of data.
 
 ---
 
 ##  About Me
 
- ~ Strong background in customer support and operations with 5+ years of experience.
+ ~ Strong background in CRM operations with 4 years of experience and transitioned into Data Science with 2 years of experience.
 
  ~ Currently diving deeper into Data Analytics, Machine Learning, and Visualization Tools.
 
  ~ Excited to collaborate on open-source and data-driven projects.
 
  ~ **Certified in Data Science and Artificial Intelligence.**
-
- ~ Fun fact: I'm always excited to learn new technologies and share my learnings with others!
 
 ---
 
@@ -45,16 +43,6 @@ I'm Elakkiya, a passionate **Data Analyst** and Data Enthusiast who loves solvin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## GitHub Stats
-
-Here are some highlights from my GitHub activity:
-
-![Elakkiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elakkiya-U&show_icons=true&theme=tokyonight&hide=contribs,prs&layout=compact)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elakkiya-U&layout=compact&theme=tokyonight)
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uelakkiya/)
@@ -65,4 +53,3 @@ Here are some highlights from my GitHub activity:
 ## Quote to Live By
 
 "Learning is my fuel; innovation is my destination." 
-"Data Once whispered in Ledgers and Logs; Today it roars across networks, shaping decisions faster than thoughts."
