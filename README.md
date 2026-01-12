@@ -46,7 +46,7 @@ I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problem
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uelakkiya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/uelakkiya)
 
 ---
 
