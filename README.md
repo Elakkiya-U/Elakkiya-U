@@ -6,9 +6,9 @@ I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problem
 
 ##  About Me
 
- ~ Strong background in CRM operations with 4 years of experience and transitioned into Data Science with 2 years of experience.
+ ~ Strong background in CRM operations with 4+ years of experience and transitioned into Data Science with 2 years of experience.
 
- ~ Currently diving deeper into Data Analytics, Machine Learning, and Visualization Tools.
+ ~ Currently diving deeper into Business Intelligence, Machine Learning, Gen AI and Visualization Tools.
 
  ~ Excited to collaborate on open-source and data-driven projects.
 
@@ -52,4 +52,5 @@ I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problem
 
 ## Quote to Live By
 
-"Learning is my fuel; innovation is my destination." 
+".......Learning is my Fuel; 
+          Innovation is my Destination." 
