@@ -50,7 +50,7 @@ I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problem
 
 ---
 
-## Quote to Live By
-
-".......Learning is my Fuel; 
-          Innovation is my Destination." 
+## 
+"Learning is my Fuel; 
+##
+Innovation is my Destination." 
