@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub Page!
+## Hi there! 
 
 I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problems with the power of data.
 
@@ -49,8 +49,3 @@ I'm Elakkiya, a passionate **Data Analyst** who loves solving real-world problem
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/uelakkiya)
 
 ---
-
-## 
-"Learning is my Fuel; 
-##
-Innovation is my Destination." 
